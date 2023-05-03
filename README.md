@@ -7,7 +7,7 @@ Como por o website para rodar:
 
 Como utilizar o website:
 - Bote a parte do backend para rodar primeiro: https://github.com/LcsGomes94/arcano_challenge_backend.
-- Acesse "http://localhost:3000", e digite id de um usuário existente para pesquisar.
+- Acesse "http://localhost:3000", e digite o id de um usuário existente para pesquisar.
 
 Detalhes extras:
 - Pesquisa automática após mudança no input.
